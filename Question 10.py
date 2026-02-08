@@ -1,7 +1,5 @@
 #QUESTION 10
-# FIX
 
-import os
 def find_lines_containing(filename, keyword):
     matches = []
     search_term = keyword.lower()

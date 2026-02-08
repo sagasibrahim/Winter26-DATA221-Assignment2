@@ -2,7 +2,6 @@
 import string
 from collections import Counter
 
-# QUESTION 1
 # Reading the text file and splitting into individual words
 file = open("sample-file.txt", "r", encoding="utf-8")
 text_data = file.read()
